@@ -29,9 +29,9 @@ See https://github.com/mathworks/matlab-proxy/blob/main/Advanced-Usage.md for mo
 To use Online licensing, start a MATLAB Kernel in a Jupyter notebook and login using the web interface 
 shown upon execution of any code.
 ```
-解决方案：
+  解决方案：
 
-1. 打开环境变量
-2. 点击 新建 系统变量 （*****!!!!不是添加路径!!!!!*****）
-3. 系统变量添加 MWI_USE_EXISTING_LICENSE，值设置为 True，然后重启电脑
+  - a. 打开环境变量
+  - b. 点击 新建 系统变量 （*****!!!!不是添加路径!!!!!*****）
+  - c. 系统变量添加 MWI_USE_EXISTING_LICENSE，值设置为 True，然后重启电脑
 
