@@ -13,4 +13,3 @@
 
 clash for Windows客户端也有相关的配置，找到 UWP Loopback 回环配置，进行对应勾选即可。
 
-原理：UMP环境默认与localhost不通
